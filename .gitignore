@@ -5,3 +5,7 @@
 *.tfstate.backup 
 
 *.tfvars 
+
+node_modules/ 
+
+coverage/ 
