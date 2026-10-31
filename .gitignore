@@ -7,5 +7,5 @@
 *.tfvars 
 
 node_modules/ 
-
+.venv
 coverage/ 
